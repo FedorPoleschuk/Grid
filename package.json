@@ -1,0 +1,26 @@
+{
+  "name": "poleschuk-grid",
+  "version": "2.1.2",
+  "description": "Grid with different preprocessors: LESS, SCSS, SASS or Stylus",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  
+  "keywords": [
+    "css",
+    "less",
+    "scss",
+    "sass",
+    "stylus"
+  ],
+  "author": "Fedor_Poleschuk",
+  "license": "MIT",
+  "homepage": "https://github.com/FedorPoleschuk/Grid#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedorPoleschuk/Grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FedorPoleschuk/Grid/issues"
+  }
+}
